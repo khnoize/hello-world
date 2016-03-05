@@ -1,2 +1,2 @@
 # hello-world
-this is description
+this is description of trying to learn github.
